@@ -1,0 +1,10 @@
+site_name: DevOps Docs
+site_description: Practical work 9 by Gabdushov Erlan
+site_url: https://erlashkaa.github.io/devops-docs/
+repo_url: https://github.com/erlashkaa/devops-docs
+nav:
+  - Home: index.md
+  - CI guide: ci.md
+theme:
+  name: mkdocs
+

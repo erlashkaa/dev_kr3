@@ -1,0 +1,10 @@
+# DevOps documentation
+
+Version 1
+
+This site demonstrates automatic code checks and documentation publishing with GitHub Actions.
+
+## Project
+
+The repository contains a small Python module, a Pylint workflow and MkDocs documentation.
+
