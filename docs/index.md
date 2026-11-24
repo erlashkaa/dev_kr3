@@ -1,6 +1,6 @@
 # DevOps documentation
 
-Version 1
+Version 2
 
 This site demonstrates automatic code checks and documentation publishing with GitHub Actions.
 
@@ -8,5 +8,5 @@ This site demonstrates automatic code checks and documentation publishing with G
 
 The repository contains a small Python module, a Pylint workflow and MkDocs documentation.
 
-See the [recovery guide](recovery.md) for failure recovery steps.
+See the [CI guide](ci.md) for continuous integration details.
 
