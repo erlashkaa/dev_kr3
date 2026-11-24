@@ -8,3 +8,5 @@ This site demonstrates automatic code checks and documentation publishing with G
 
 The repository contains a small Python module, a Pylint workflow and MkDocs documentation.
 
+See the [recovery guide](recovery.md) for failure recovery steps.
+
